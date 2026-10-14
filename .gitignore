@@ -1,0 +1,20 @@
+# Build products
+/coopiano
+/build/
+/builds/
+*.o
+*.obj
+*.dSYM/
+
+# Rendered audio and settings snapshots
+*.wav
+*.wav.ini
+
+# Local credentials, OS metadata and editor files
+.env
+.env.*
+.DS_Store
+._*
+*.swp
+*.swo
+*~
