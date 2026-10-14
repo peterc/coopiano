@@ -1,5 +1,7 @@
 # coopiano - physically modelled piano synthesizer
 
+https://github.com/user-attachments/assets/aa7c3835-e664-40b2-91cd-c30ee46f2247
+
 A physically modelled piano synthesizer in C++17. It renders notes and MIDI
 files to stereo WAV and supports live MIDI input on macOS. Sound is synthesized
 from a hammer, string, soundboard and sympathetic-resonance model, with a room
